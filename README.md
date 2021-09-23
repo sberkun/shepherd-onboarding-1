@@ -1,6 +1,6 @@
 <img align="right" src="readmefigures/PiE_Sheep.png" alt="PiE Sheep" width="86" height="135">
 
-# Shepherd Secret Hitler Onboarding
+# Shepherd Secret Hitler 
 
 Join the liberals and discover the wolves in sheep's clothing, or help the fascists pull the wool over everyone's eyes!
 
